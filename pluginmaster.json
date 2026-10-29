@@ -1,0 +1,32 @@
+
+[
+  {
+    "Author": "AHHH REPTAR",
+    "Name": "Quest Actions",
+    "InternalName": "QuestActions",
+    "AssemblyVersion": "0.7.28.0",
+    "Description": "Quest Actions detects relevant quest items, emotes, and required dialogue from local quest data.",
+    "ApplicableVersion": "any",
+    "Tags": [
+      "quest",
+      "actions",
+      "items",
+      "emotes",
+      "hotbar"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "Quest-action hotbar for items, emotes, and required dialogue.",
+    "AcceptsFeedback": true,
+    "RepoUrl": "https://github.com/ahhh-reptar/QuestActions",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/ahhh-reptar/QuestActions/releases/latest/download/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/ahhh-reptar/QuestActions/releases/latest/download/latest.zip",
+    "DownloadLinkTesting": "",
+    "LastUpdate": "1793260000"
+  }
+]
